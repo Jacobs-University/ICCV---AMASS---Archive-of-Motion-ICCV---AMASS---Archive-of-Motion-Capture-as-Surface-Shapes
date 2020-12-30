@@ -17,9 +17,9 @@ Deep Learning Computer Vision models depend on massive datasets for their advanc
 Download the body data .npz files from https://amass.is.tue.mpg.de/datasets or one can
 use any other body data in. npz format.
 
-3.For the next steps, it is important to follow the exact steps in the Jupyter notebook.
+**3.**For the next steps, it is important to follow the exact steps in the Jupyter notebook.
 
-4. For **Visualization** from Section 3.1, follow this walkthrough: https://scientist-sanyukta.medium.com/human-motion-detection-using-amass-a510f57dd7ff
+**4. For **Visualization** from Section 3.1, follow this walkthrough: https://scientist-sanyukta.medium.com/human-motion-detection-using-amass-a510f57dd7ff
 
 
 

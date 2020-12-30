@@ -3,23 +3,26 @@ Deep Learning Computer Vision models depend on massive datasets for their advanc
 
 **1. REQUIREMENTS:**
 
-  *Python 3.7
-  *Human Body Prior
-  *Pyrender for visualizations
+  Python 3.7
+  Human Body Prior
+  Pyrender for visualizations
 
 **Install from this repository for the latest developments:**
 
->pip install git+https://github.com/nghorbani/configer
->pip install git+https://github.com/nghorbani/human_body_prior
->pip install git+https://github.com/nghorbani/amass>
+ pip install git+https://github.com/nghorbani/configer
+ 
+ pip install git+https://github.com/nghorbani/human_body_prior
+ 
+ pip install git+https://github.com/nghorbani/amass>
+ 
+ 
 
 **2. Get the data:**
-Download the body data .npz files from https://amass.is.tue.mpg.de/datasets or one can
-use any other body data in. npz format.
+ Download the body data .npz files from https://amass.is.tue.mpg.de/datasets or one can use any other body data in. npz format.
 
 **3.**For the next steps, it is important to follow the exact steps in the Jupyter notebook.
 
-**4. For **Visualization** from Section 3.1, follow this walkthrough: https://scientist-sanyukta.medium.com/human-motion-detection-using-amass-a510f57dd7ff
+**4.** For **Visualization** from Section 3.1, follow this walkthrough: https://scientist-sanyukta.medium.com/human-motion-detection-using-amass-a510f57dd7ff
 
 
 
